@@ -35,7 +35,7 @@ input.onGesture(Gesture.Shake, function () {
 })
 let init = 0
 radio.setGroup(1)
-music.playMelody("C D E F G A B C5 ", 120)
+music.playMelody("C D E F G A B C5 ", 150)
 init = 0
 for (let i = 0; i <= 5; i++) {
     for (let j = 0; j <= 5; j++) {
